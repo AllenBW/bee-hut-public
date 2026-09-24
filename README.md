@@ -4,7 +4,7 @@ A 10 × 10 ft pine-framed hut on pressure-treated skids, cedar where a hand or a
 
 ![Plan](png/01-plan.png)
 
-Revision 13, September 23, 2026. 20 sheets: [the whole set, with captions](SHEETS.md).
+Revision 13, September 23, 2026. 27 sheets: [the whole set, with captions](SHEETS.md).
 
 The drawings are generated from a dimension set and rebuilt whenever a number changes, so
 every sheet agrees with every other. Dimensions are in inches; heights inside are above the deck.
